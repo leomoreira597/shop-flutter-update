@@ -1,5 +1,4 @@
 import 'dart:math';
-
 import 'package:flutter/material.dart';
 import 'package:shop/models/cart_item_model.dart';
 import 'package:shop/models/product.dart';
